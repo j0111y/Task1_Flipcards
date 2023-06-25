@@ -1,0 +1,239 @@
+<div class="wrapper">
+  <div class="card">
+    <input type="checkbox" id="card1" class="more">
+    <div class="content">
+      <div class="front" 
+           style="background-image: url('https://i.pinimg.com/564x/be/01/92/be0192f9b86e7c66d511f3e9e2105aa8.jpg')">
+        <div class="inner">
+          <h2>Alchemy of Souls</h2>
+          <label for="card1" class="button">Learn More</label>
+        </div>
+      </div>
+      <div class="back">
+        <div class="inner">
+          <h2>Alchemy of Souls</h2>
+          <div class="synopsis">
+           Set in a fictional country called Daeho, the series is about the love and growth of young mages as they overcome their twisted fates due to a forbidden magic spell known as the "alchemy of souls", which allows souls to switch bodies.
+It follows the story of an elite warrior named Nak-su whose soul is accidentally trapped inside the weak body of Mu-deok. She becomes entangled with Jang Uk who is from a noble family, becomes his servant and master, and teaches Uk her skills as they both fall in love with each other.
+          </div>
+          <div class="info">
+            <div class="info-item">Original Title:환혼
+            </div>
+            <div class="info-item">Genre:
+Fantasy
+Comedy
+Historical
+Action 
+            </div>
+            <div class="info-item">Country of Origin:South Korea
+            </div>
+            <div class="info-item"> No.of episodes:20
+            </div>
+          </div>
+        
+          <label for="card1" class="button return">Back</label>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  
+  
+  <div class="card">
+    <input type="checkbox" id="card2" class="more">
+    <div class="content">
+      <div class="front" style="background-image: url('https://asianwiki.com/images/2/2b/Alchemy_of_Souls_2-mp1.jpeg')">
+        <div class="inner">
+          <h2>Alchemy of Souls: Light and Shadow</h2>
+          <label for="card2" class="button">Learn More</label>
+        </div>
+      </div>
+      <div class="back">
+        <div class="inner">
+          <h2>Alchemy of Souls: Light and Shadow</h2>
+          <div class="synopsis">
+            Three years after a tragedy, engineered by Jin Mu, that led Mu-deok to run wild and kill innocent people, Jang Uk, who returned from the dead as a result of the powerful Ice Stone inside his body, becomes a ruthless hunter of soul shifters and becomes increasingly isolated due to his heartbreak over the death of his love—Mu-deok. He then meets the mysterious heiress of Jinyowon, Jin Bu-yeon, who resembles Nak-su.
+          </div>
+           <div class="info">
+             <div class="info-item">Original Title:환혼:빛과 그림자
+            </div>
+            <div class="info-item">Genre:
+Fantasy
+Romance
+Historical
+Action
+Drama
+            </div>
+            <div class="info-item">Country of Origin:South Korea
+            </div>
+            <div class="info-item"> No.of episodes:10
+            </div>
+          </div>
+          <label for="card2" class="button return">Back</label>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  
+ <div class="card">
+    <input type="checkbox" id="card3" class="more">
+    <div class="content">
+      <div class="front" style="background-image: url('https://d3tvwjfge35btc.cloudfront.net/Assets/63/782/L_p0070078263.jpg')">
+        <div class="inner">
+          <h2>Moon Lovers: Scarlet Heart Ryeo</h2>
+          <label for="card3" class="button">Learn More</label>
+        </div>
+      </div>
+      <div class="back">
+        <div class="inner">
+          <h2>Moon Lovers: Scarlet Heart Ryeo</h2>
+          <div class="synopsis">
+            During a total solar eclipse, a 25-year-old 21st-century woman, Go Ha-jin (Lee Ji-eun), is transported back in time, to the Goryeo Dynasty.
+She wakes up in the year of 941, in the body of Hae Soo, among the many princes of the ruling Wang family, during the reign of King Taejo.
+She initially falls in love with the gentle and warm-hearted 8th Prince Wang Wook (Kang Ha-neul), but later develops a relationship with Wang So (Lee Joon-gi), the fearsome 4th Prince, who hides his face behind a mask and is given the derogatory label of "wolf-dog".
+As the story develops, Hae Soo finds herself unwittingly caught up in the palace politics and the rivalry among the princes, as they fight for the throne.
+          </div>
+          <div class="info">
+            <div class="info-item">Original Title:달의 연인–보보경심 려
+            </div>
+            <div class="info-item">Genre:
+Action
+Fantasy
+Historical
+Romance
+Tragedy
+            </div>
+            <div class="info-item">Country of Origin:South Korea
+            </div>
+            <div class="info-item"> No.of episodes:20
+            </div>
+          </div>
+          <label for="card3" class="button return">Back</label>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+
+
+<div class="wrapper">
+  <div class="card">
+    <input type="checkbox" id="card4" class="more" >
+    <div class="content">
+      <div class="front" style="background-image: url('https://upload.wikimedia.org/wikipedia/en/1/1d/Snowdrop_TV_series.jpg')">
+        <div class="inner">
+          <h2>Snowdrop</h2>
+          <label for="card4" class="button">Learn More</label>
+        </div>
+      </div>
+      <div class="back">
+        <div class="inner">
+          <h2>Snowdrop</h2>
+          <div class="synopsis">
+            Snowdrop takes place in 1987, a pivotal year in South Korean history that included the June 1987 Democracy Movement, a mass protest movement with the purpose of forcing the dictatorship in South Korea to hold fair elections, and the resulting December 1987 democratic elections, which led to the end of the authoritarian Fifth Republic of Korea and the establishment of the democratic Sixth Republic of Korea.
+Snowdrop is set in November and December 1987. Lim Soo-ho (Jung Hae-in) plays a graduate student who is found covered in blood by Eun Yeong-ro (Jisoo), a female university student who hides him from the government in her dorm room. However, it is revealed that Soo-ho is not who he appears to be. Against the backdrop of political upheaval, the pair's story unfolds and the two develop a romantic relationship.
+          </div>
+         <div class="info">
+            <div class="info-item">Original Title:설강화 
+            </div>
+            <div class="info-item">Genre:
+Romance
+Black Comedy
+Melodrama
+            </div>
+            <div class="info-item">Country of Origin:South Korea
+            </div>
+            <div class="info-item"> No.of episodes:16
+            </div>
+          </div>
+          <label for="card4" class="button return">Back</label>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  
+  
+  <div class="card">
+    <input type="checkbox" id="card5" class="more" >
+    <div class="content">
+      <div class="front" style="background-image: url('https://upload.wikimedia.org/wikipedia/en/6/6e/DescendantsoftheSun.jpg')">
+        <div class="inner">
+          <h2>Descendants of the Sun</h2>
+          <label for="card5" class="button">Learn More</label>
+        </div>
+      </div>
+      <div class="back">
+        <div class="inner">
+          <h2>Descendants of The Sun</h2>
+          <div class="synopsis">
+            Yoo Shi Jin (Song Joong Ki), the leader of a Special Forces unit, meets trauma surgeon Kang Mo Yeon (Song Hye Kyo) in a hospital emergency room after Shi Jin and his second-in-command, Seo Dae Young (Jin Goo), chase down a thief on their day off.
+Shi Jin is immediately smitten with Mo Yeon, and he asks her out on a date. But Shi Jin keeps getting called to duty when he is with Mo Yeon, and the two also realize that they have conflicting views about human life (he will kill to protect his country and she has to save lives at all costs). They decide to break off their budding relationship as a result.
+Dae Young also tries to break off his relationship with Army doctor Yoon Myeong Ju (Kim Ji Won) because her father, Lt. General Yoon (Kang Shin Il), thinks Shi Jin is a better match for his daughter.
+Shi Jin and Dae Young are then deployed to the fictional war-torn country of Urk on a long-term assignment of helping the United Nations keep peace in the area. After repeatedly being passed over for a promotion because of her lack of connections, Mo Yeon gives up performing surgeries, loosening her principles somewhat to become a celebrity TV doctor and caring for VIP patients at the hospital. But when she refuses the sexual advances of the hospital chairman, Mo Yeon is picked to lead a medical team to staff a clinic in Urk! There, Mo Yeon unexpectedly reconnects with Shi Jin.
+          </div>
+         <div class="info">
+            <div class="info-item">Original Title:태양의 후예  
+            </div>
+            <div class="info-item">Genre:
+Action
+Military
+Comedy
+Romance
+Medical
+            </div>
+            <div class="info-item">Country of Origin:South Korea
+            </div>
+            <div class="info-item"> No.of episodes:16+3
+            </div>
+          </div>
+          <label for="card5" class="button return">Back</label>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  
+
+ <div class="card">
+    <input type="checkbox" id="card6" class="more">
+    <div class="content">
+      <div class="front" style="background-image: url('https://photos.hancinema.net/photos/photo1154273.jpg')">
+        <div class="inner">
+          <h2> Crash Landing On You</h2>
+          <label for="card6" class="button">Learn More</label>
+        </div>
+      </div>
+      <div class="back">
+        <div class="inner">
+          <h2>Crash Landing on You</h2>
+          <div class="synopsis">
+            Yoon Se-ri (Son Ye-jin) is a South Korean successful entrepreneur and a chaebol heiress. One day, while paragliding in Seoul, a tornado blows her off course. As a result, she crash-lands into the North Korean portion of the DMZ. Ri Jeong-hyeok (Hyun Bin) is a member of the North Korean elite and a captain in the Korean People's Army. As he is patrolling, he meets Se-ri and saves her. Having decided to help her go back to the South, he hides her from other North Koreans, especially Cho Cheol-gang (Oh Man-seok) who is out to expose him. As they spend time together, they fall in love.
+          </div>
+          <div class="info">
+            <div class="info-item">Original Title:사랑의 불시착 
+            </div>
+            <div class="info-item">Genre:
+Comedy
+Romance
+            </div>
+            <div class="info-item">Country of Origin:South Korea
+            </div>
+            <div class="info-item"> No.of episodes:16
+            </div>
+          </div>
+          <label for="card6" class="button return">Back</label>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
